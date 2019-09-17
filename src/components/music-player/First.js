@@ -6,14 +6,14 @@ import "react-jinke-music-player/assets/index.css";
 import { options } from "./options"
 
 
-const options = {
-    audioLists: [
-      {
-        name: 'Yara',
-        singer: 'Arijit Singh',
-        musicSrc: 'https://firebasestorage.googleapis.com/v0/b/awesomeproject-1bb2b.appspot.com/o/images%2Fyara.mp3?alt=media&token=fd96b785-f87d-4456-bcb4-c222b7627416',
-      }]
-    }
+// const options = {
+//     audioLists: [
+//       {
+//         name: 'Yara',
+//         singer: 'Arijit Singh',
+//         musicSrc: 'https://firebasestorage.googleapis.com/v0/b/awesomeproject-1bb2b.appspot.com/o/images%2Fyara.mp3?alt=media&token=fd96b785-f87d-4456-bcb4-c222b7627416',
+//       }]
+//     }
 
 class First extends Component {
     constructor (props){
